@@ -1,4 +1,14 @@
+COMPANY : CODTECH IT SOLUTIONS
 
+NAME : ANAND MISHRA
+
+INTERN ID : CTISAR00
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
 ### 🎨🖌 Creating Art with the help of Artificial Intelligence !
 
 **🔥 Official Website :** https://share.streamlit.io/deepeshdm/pixelmix/main/App.py
