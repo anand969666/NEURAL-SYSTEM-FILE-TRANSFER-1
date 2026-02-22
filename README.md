@@ -125,7 +125,7 @@ In order to make it easy for anyone to interact with the model,we created a clea
 <img src="/Imgs/content4.jpg" width="35%"/>
 <img src="/Imgs/art4.png" width="35%"/>
 </div>
-
+  
 References :
 - https://arxiv.org/abs/1508.06576 
 - https://keras.io/examples/generative/neural_style_transfer/ 
